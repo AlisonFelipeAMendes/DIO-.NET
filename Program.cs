@@ -3,7 +3,7 @@ using SINTAXE_E_IDENTACAO.Models;
 string apresentacao ="Seja bem vindo";
 int quantidade = 1;
 double altura = 1.80;
-
+string sobreNome = "Mendes";
 
 
 //Pessoa p = new Pessoa();
