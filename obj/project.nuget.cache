@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "eHAz2M3K0kk=",
   "success": true,
   "projectFilePath": "C:\\.NET\\Sintaxe e identacao\\Sintaxe e identacao.csproj",
+=======
+  "dgSpecHash": "mE4271svdIk=",
+  "success": true,
+  "projectFilePath": "C:\\.NET\\SINTAXE_E_IDENTACAO\\SINTAXE_E_IDENTACAO.csproj",
+>>>>>>> 0221dd2ac7bf9553eabf5b397fea66abc4962f84
   "expectedPackageFiles": [],
   "logs": []
 }
