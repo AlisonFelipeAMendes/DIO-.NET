@@ -1,0 +1,14 @@
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\Sintaxe e identacao.exe
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\Sintaxe e identacao.deps.json
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\Sintaxe e identacao.runtimeconfig.json
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\Sintaxe e identacao.dll
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\Sintaxe e identacao.pdb
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\Sintaxe e identacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\Sintaxe e identacao.AssemblyInfoInputs.cache
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\Sintaxe e identacao.AssemblyInfo.cs
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\Sintaxe e identacao.csproj.CoreCompileInputs.cache
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\Sintaxe e identacao.dll
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\refint\Sintaxe e identacao.dll
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\Sintaxe e identacao.pdb
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\Sintaxe e identacao.genruntimeconfig.cache
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\ref\Sintaxe e identacao.dll

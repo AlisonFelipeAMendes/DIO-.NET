@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sintaxe e identacao", "Sintaxe e identacao.csproj", "{156FEE01-07FB-48DC-BF47-BCFBB0183E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156FEE01-07FB-48DC-BF47-BCFBB0183E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156FEE01-07FB-48DC-BF47-BCFBB0183E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156FEE01-07FB-48DC-BF47-BCFBB0183E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156FEE01-07FB-48DC-BF47-BCFBB0183E68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70F77E02-2593-474A-85F1-5E0BC794C7D4}
+	EndGlobalSection
+EndGlobal
