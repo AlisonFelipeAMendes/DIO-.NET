@@ -1,18 +1,10 @@
 //  using SINTAXE_E_IDENTACAO.Models;
 
-int a = 0;
-int b = 0;
+int a = 10;
+int b = 20;
 int c = a + b;
 
 Console.WriteLine(c);
-
-
-
-
-
-
-
-
 
 
 
