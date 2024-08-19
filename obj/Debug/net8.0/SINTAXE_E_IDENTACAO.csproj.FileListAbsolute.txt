@@ -1,14 +1,15 @@
-C:\.NET\SINTAXE_E_IDENTACAO\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.exe
-C:\.NET\SINTAXE_E_IDENTACAO\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.deps.json
-C:\.NET\SINTAXE_E_IDENTACAO\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.runtimeconfig.json
-C:\.NET\SINTAXE_E_IDENTACAO\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.dll
-C:\.NET\SINTAXE_E_IDENTACAO\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.pdb
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.GeneratedMSBuildEditorConfig.editorconfig
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.AssemblyInfoInputs.cache
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.AssemblyInfo.cs
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.csproj.CoreCompileInputs.cache
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.dll
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\refint\SINTAXE_E_IDENTACAO.dll
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.pdb
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.genruntimeconfig.cache
-C:\.NET\SINTAXE_E_IDENTACAO\obj\Debug\net8.0\ref\SINTAXE_E_IDENTACAO.dll
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.exe
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.deps.json
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.runtimeconfig.json
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.dll
+C:\.NET\Sintaxe e identacao\bin\Debug\net8.0\SINTAXE_E_IDENTACAO.pdb
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.AssemblyInfoInputs.cache
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.AssemblyInfo.cs
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.csproj.CoreCompileInputs.cache
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.sourcelink.json
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.dll
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\refint\SINTAXE_E_IDENTACAO.dll
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.pdb
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\SINTAXE_E_IDENTACAO.genruntimeconfig.cache
+C:\.NET\Sintaxe e identacao\obj\Debug\net8.0\ref\SINTAXE_E_IDENTACAO.dll

@@ -8,34 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\felipe.mendes\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\CA-MENDES\\.nuget\\packages\\": {}
->>>>>>> 0221dd2ac7bf9553eabf5b397fea66abc4962f84
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\.NET\\Sintaxe e identacao\\Sintaxe e identacao.csproj",
-      "projectName": "Sintaxe e identacao",
-      "projectPath": "C:\\.NET\\Sintaxe e identacao\\Sintaxe e identacao.csproj",
+      "projectUniqueName": "C:\\.NET\\Sintaxe e identacao\\SINTAXE_E_IDENTACAO.csproj",
+      "projectName": "SINTAXE_E_IDENTACAO",
+      "projectPath": "C:\\.NET\\Sintaxe e identacao\\SINTAXE_E_IDENTACAO.csproj",
       "packagesPath": "C:\\Users\\felipe.mendes\\.nuget\\packages\\",
       "outputPath": "C:\\.NET\\Sintaxe e identacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felipe.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "C:\\.NET\\SINTAXE_E_IDENTACAO\\SINTAXE_E_IDENTACAO.csproj",
-      "projectName": "SINTAXE_E_IDENTACAO",
-      "projectPath": "C:\\.NET\\SINTAXE_E_IDENTACAO\\SINTAXE_E_IDENTACAO.csproj",
-      "packagesPath": "C:\\Users\\CA-MENDES\\.nuget\\packages\\",
-      "outputPath": "C:\\.NET\\SINTAXE_E_IDENTACAO\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\CA-MENDES\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 0221dd2ac7bf9553eabf5b397fea66abc4962f84
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -79,11 +64,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
->>>>>>> 0221dd2ac7bf9553eabf5b397fea66abc4962f84
       }
     }
   }

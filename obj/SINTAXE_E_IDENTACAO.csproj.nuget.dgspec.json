@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NET\\SINTAXE_E_IDENTACAO\\SINTAXE_E_IDENTACAO.csproj": {}
+    "C:\\.NET\\Sintaxe e identacao\\SINTAXE_E_IDENTACAO.csproj": {}
   },
   "projects": {
-    "C:\\.NET\\SINTAXE_E_IDENTACAO\\SINTAXE_E_IDENTACAO.csproj": {
+    "C:\\.NET\\Sintaxe e identacao\\SINTAXE_E_IDENTACAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NET\\SINTAXE_E_IDENTACAO\\SINTAXE_E_IDENTACAO.csproj",
+        "projectUniqueName": "C:\\.NET\\Sintaxe e identacao\\SINTAXE_E_IDENTACAO.csproj",
         "projectName": "SINTAXE_E_IDENTACAO",
-        "projectPath": "C:\\.NET\\SINTAXE_E_IDENTACAO\\SINTAXE_E_IDENTACAO.csproj",
-        "packagesPath": "C:\\Users\\CA-MENDES\\.nuget\\packages\\",
-        "outputPath": "C:\\.NET\\SINTAXE_E_IDENTACAO\\obj\\",
+        "projectPath": "C:\\.NET\\Sintaxe e identacao\\SINTAXE_E_IDENTACAO.csproj",
+        "packagesPath": "C:\\Users\\felipe.mendes\\.nuget\\packages\\",
+        "outputPath": "C:\\.NET\\Sintaxe e identacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CA-MENDES\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\felipe.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
