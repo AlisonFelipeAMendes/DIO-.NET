@@ -1,16 +1,56 @@
 //  using SINTAXE_E_IDENTACAO.Models;
 
-int a = 10;
-int b = 20;
-int c = a + b;
-c += 5;
-Console.WriteLine(c);
-c -= 5;
-Console.WriteLine(c);
-c *= 5;
-Console.WriteLine(c);
-c /= 5;
-Console.WriteLine(c);
+
+
+
+//Ordem dos Operadores
+//(), Expoente, divisão/multiplicação e soma/subtração
+double a = 4/(2+2);
+Console.WriteLine(a);
+
+
+
+
+//Cast implicito
+// //Conversões implicitas em variaveis, são conversões onde não a necessidade de auteração lexical e o prorpio copilador realiza o processo de atribuição.
+// int a = 5;
+// double b = a;
+// Console.WriteLine(b);
+
+// int c= 5;
+// long d = a;
+// Console.WriteLine(d);
+
+
+// //Conversão para tipo String
+// int inteiro = 5;
+// String a = inteiro.ToString();
+// Console.WriteLine(a);
+
+
+
+
+// //Cast - Casting 
+// int b = Convert.ToInt32(null); //O Convert possibilita etorno de valores nulos com o valor zero
+// //int a = int.Parse(null); //O Parse apresenta erro na utilização de valoes nulos
+
+
+// Console.WriteLine(b);
+// //Console.WriteLine(a);
+
+
+
+// int a = 10;
+// int b = 20;
+// int c = a + b;
+// c += 5;
+// Console.WriteLine(c);
+// c -= 5;
+// Console.WriteLine(c);
+// c *= 5;
+// Console.WriteLine(c);
+// c /= 5;
+// Console.WriteLine(c);
 
 
 
