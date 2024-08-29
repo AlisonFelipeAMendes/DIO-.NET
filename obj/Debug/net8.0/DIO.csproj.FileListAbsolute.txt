@@ -1,0 +1,15 @@
+C:\.NET\DIO\obj\Debug\net8.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\DIO\obj\Debug\net8.0\DIO.AssemblyInfoInputs.cache
+C:\.NET\DIO\obj\Debug\net8.0\DIO.AssemblyInfo.cs
+C:\.NET\DIO\obj\Debug\net8.0\DIO.csproj.CoreCompileInputs.cache
+C:\.NET\DIO\obj\Debug\net8.0\DIO.sourcelink.json
+C:\.NET\DIO\bin\Debug\net8.0\DIO.exe
+C:\.NET\DIO\bin\Debug\net8.0\DIO.deps.json
+C:\.NET\DIO\bin\Debug\net8.0\DIO.runtimeconfig.json
+C:\.NET\DIO\bin\Debug\net8.0\DIO.dll
+C:\.NET\DIO\bin\Debug\net8.0\DIO.pdb
+C:\.NET\DIO\obj\Debug\net8.0\DIO.dll
+C:\.NET\DIO\obj\Debug\net8.0\refint\DIO.dll
+C:\.NET\DIO\obj\Debug\net8.0\DIO.pdb
+C:\.NET\DIO\obj\Debug\net8.0\DIO.genruntimeconfig.cache
+C:\.NET\DIO\obj\Debug\net8.0\ref\DIO.dll
