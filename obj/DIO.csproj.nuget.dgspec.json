@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NET\\DIO\\SINTAXE_E_IDENTACAO.csproj": {}
+    "C:\\.NET\\DIO\\DIO.csproj": {}
   },
   "projects": {
-    "C:\\.NET\\DIO\\SINTAXE_E_IDENTACAO.csproj": {
+    "C:\\.NET\\DIO\\DIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NET\\DIO\\SINTAXE_E_IDENTACAO.csproj",
-        "projectName": "SINTAXE_E_IDENTACAO",
-        "projectPath": "C:\\.NET\\DIO\\SINTAXE_E_IDENTACAO.csproj",
+        "projectUniqueName": "C:\\.NET\\DIO\\DIO.csproj",
+        "projectName": "DIO",
+        "projectPath": "C:\\.NET\\DIO\\DIO.csproj",
         "packagesPath": "C:\\Users\\felipe.mendes\\.nuget\\packages\\",
         "outputPath": "C:\\.NET\\DIO\\obj\\",
         "projectStyle": "PackageReference",

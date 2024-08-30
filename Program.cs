@@ -1,9 +1,4 @@
-//  using SINTAXE_E_IDENTACAO.Models;
-
-
-
-
-//Ordem dos Operadores
+﻿//Ordem dos Operadores
 //(), Expoente, divisão/multiplicação e soma/subtração
 //double a = 4/(2+2);
 String necta = "teste";
