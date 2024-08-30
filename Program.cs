@@ -1,11 +1,43 @@
-﻿//Ordem dos Operadores
+﻿
+
+
+
+
+
+
+
+
+//Operadores condicionais
+
+int quantidadeEmEstoque = 10;
+int quantidadeCompra = 2;
+bool possivelVenda = quantidadeCompra <= quantidadeEmEstoque;
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+Console.WriteLine($"É possivel realizar a venda?: {possivelVenda}");
+
+
+
+if (possivelVenda)
+{
+    Console.WriteLine("Venda realizada!");
+    
+}
+else
+{
+    Console.WriteLine("Desculpe, não temos a quantidade de produtos!");
+}
+
+
+
+
+
+//Ordem dos Operadores
 //(), Expoente, divisão/multiplicação e soma/subtração
 //double a = 4/(2+2);
-String necta = "teste";
-Console.WriteLine(necta);
-
-
-
+// String necta = "teste";
+// Console.WriteLine(necta);
 
 //Cast implicito
 // //Conversões implicitas em variaveis, são conversões onde não a necessidade de auteração lexical e o prorpio copilador realiza o processo de atribuição.
