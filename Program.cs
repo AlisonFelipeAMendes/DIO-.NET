@@ -6,7 +6,7 @@
 //Ordem dos Operadores
 //(), Expoente, divisão/multiplicação e soma/subtração
 //double a = 4/(2+2);
-string necta = "teste";
+String necta = "teste";
 Console.WriteLine(necta);
 
 

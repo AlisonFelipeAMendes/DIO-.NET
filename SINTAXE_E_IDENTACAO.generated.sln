@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SINTAXE_E_IDENTACAO", "SINTAXE_E_IDENTACAO.csproj", "{65F88F2D-9CC2-4C92-AE75-59F660F98E3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SINTAXE_E_IDENTACAO", "SINTAXE_E_IDENTACAO.csproj", "{01ACD044-C9B7-43C4-9297-61838C913DD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{65F88F2D-9CC2-4C92-AE75-59F660F98E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65F88F2D-9CC2-4C92-AE75-59F660F98E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65F88F2D-9CC2-4C92-AE75-59F660F98E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65F88F2D-9CC2-4C92-AE75-59F660F98E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01ACD044-C9B7-43C4-9297-61838C913DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ACD044-C9B7-43C4-9297-61838C913DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ACD044-C9B7-43C4-9297-61838C913DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ACD044-C9B7-43C4-9297-61838C913DD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
